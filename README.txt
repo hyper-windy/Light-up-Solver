@@ -4,6 +4,12 @@
 AUTHOR: To Thanh Phong
 
 
+DESCRIPTION: 
+
+	This is a solver for light up game (akari) written in Prolog.
+	Please visit: https://www.comp.nus.edu.sg/~kanmy/courses/3243_2007/hw-lightup.html
+	for more information.
+
 
 REQUIREMENT: 
 
